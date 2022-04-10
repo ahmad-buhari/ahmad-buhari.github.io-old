@@ -4,5 +4,5 @@
 
 Template pulled from https://html5up.net/
 
-Credits go to @ajlkn
+Credits go to [@ajlkn](https://twitter.com/ajlkn)
 
